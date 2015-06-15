@@ -1,0 +1,22 @@
+{
+  "name": "craft-tube",
+  "version": "1.0.0",
+  "description": "Parameterized tube primitive for CraftML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebhsu/craft-tube.git"
+  },
+  "keywords": [
+    "craftml"
+  ],
+  "author": "Caleb Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebhsu/craft-tube/issues"
+  },
+  "homepage": "https://github.com/calebhsu/craft-tube"
+}
