@@ -13,11 +13,11 @@ Tube primitive for CraftML
 
 ### Example
 ```html
-<craft>
+<<craft>
     <craft name="tube" module="craft-tube"/>
-    <row spacing="1" align="y50">
-        <tube topRadius="10" baseRadius="15" height="20"></tube>
-        <tube baseRadius="10" topRadius="10" height="30" sides="4"></tube>
+    <row spacing="1">
+        <tube baseRadius="15" topRadius="10" height="20"></tube>
+        <tube baseRadius="10" topRadius="15" height="30" sides="4"></tube>
         <tube></tube>
     </row>
 </craft>
