@@ -19,7 +19,7 @@
         </col>
     </part>
     
-    <g color="darkcyan">
+    <g>
         <stack spacing="{{-height}}" cut=".hole">
             <base
                 baseRadius="{{baseRadius - thickness}}" 

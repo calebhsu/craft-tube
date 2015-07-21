@@ -1,8 +1,13 @@
 # craft-tube
 Tube primitive for CraftML
 
-### Install
-    $ npm install craft-tube
+### Usage
+```html
+<craft>
+	<craft name="tube" module="craft-tube"/>
+	<tube></tube>
+</craft>
+```
 
 ### Parameters
 - baseRadius: adjusts base radius of tube
@@ -13,7 +18,7 @@ Tube primitive for CraftML
 
 ### Example
 ```html
-<<craft>
+<craft>
     <craft name="tube" module="craft-tube"/>
     <row spacing="1">
         <tube baseRadius="15" topRadius="10" height="20"></tube>
